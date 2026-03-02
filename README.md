@@ -1,4 +1,4 @@
-![Topology Diagram]()
+![Topology Diagram](https://github.com/furkangurses/OSPF-Failover-Lab-with-Floating-Static-Routes/blob/main/ty65.PNG?raw=true)
 
 # OSPF Failover Lab with Floating Static Routes
 
